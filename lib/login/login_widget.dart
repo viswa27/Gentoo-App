@@ -490,7 +490,8 @@ class _LoginWidgetState extends State<LoginWidget>
                                                   obscureText: !_model
                                                       .passwordCreateConfirmVisibility,
                                                   decoration: InputDecoration(
-                                                    labelText: 'Password',
+                                                    labelText:
+                                                        'Confirm Password',
                                                     labelStyle: FlutterFlowTheme
                                                             .of(context)
                                                         .labelLarge

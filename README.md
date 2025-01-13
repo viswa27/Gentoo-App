@@ -1,7 +1,7 @@
 # Gentoo-Delivery
 
-A Demo project.
+A new Flutter project.
 
 ## Getting Started
 
-Demo-Gentoo-Delivery projects are built to run on the Flutter _stable_ release.
+FlutterFlow projects are built to run on the Flutter _stable_ release.
