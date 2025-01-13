@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "621282972003",
+    "project_id": "shipping-47ce9",
+    "storage_bucket": "shipping-47ce9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621282972003:android:dbaf27273ae0ebe6480356",
+        "android_client_info": {
+          "package_name": "com.mycompany.gentoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBeDEoVcD2gjw4XyKncMXwi55v97eW2ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621282972003:android:c33ec8a03e354b66480356",
+        "android_client_info": {
+          "package_name": "com.mycompany.gentoodelivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBeDEoVcD2gjw4XyKncMXwi55v97eW2ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
